@@ -1,5 +1,4 @@
 import json
-from http import HTTPStatus
 
 def normalize(s):
     if not s: return ''
@@ -17,12 +16,13 @@ def token_score(ref, cand):
     uni = len(rset | cset)
     return int(round(inter/uni*100))
 
-def handler(req):
-    # Vercel's Python runtime passes the raw request body as req.get_data()
+def handler(request):
+    # Vercel passes a 'request' object with get_data()
     try:
-        data = json.loads(req.get_data().decode('utf-8'))
+        raw = request.get_data()
+        data = json.loads(raw.decode('utf-8')) if raw else {}
     except Exception:
-        return ({'error':'invalid json'}, HTTPStatus.BAD_REQUEST)
+        return ({'error':'invalid json'}, 400, {'Content-Type':'application/json', 'Access-Control-Allow-Origin':'*'})
     ref = data.get('answer','') or ''
     cand = data.get('response','') or ''
     score = token_score(ref, cand)
@@ -34,13 +34,6 @@ def handler(req):
         if kws:
             tips.append('Học theo nhóm từ/ý: ' + ', '.join(kws))
     tips.append('Lặp lại theo phương pháp spaced repetition và viết lại các ý chính.')
-    return ({'score':score,'verdict':verdict,'feedback':feedback,'tips':tips}, HTTPStatus.OK)
-
-def main(request):
-    body, status = handler(request)
-    from flask import jsonify, make_response
-    resp = make_response(jsonify(body), status)
-    # allow CORS
-    resp.headers['Access-Control-Allow-Origin'] = '*'
-    resp.headers['Access-Control-Allow-Headers'] = 'Content-Type'
-    return resp
+    body = {'score':score,'verdict':verdict,'feedback':feedback,'tips':tips}
+    headers = {'Content-Type':'application/json', 'Access-Control-Allow-Origin':'*'}
+    return (json.dumps(body), 200, headers)
