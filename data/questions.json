@@ -1,0 +1,2294 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "Sức khỏe là trạng thái hoàn toàn thoải mái về ... chứ không phải đơn thuần là không có bệnh tật",
+    "choices": [
+      "Thể chất, tâm thần và xã hội",
+      "Xã hội",
+      "Thể chất",
+      "Tinh thần"
+    ],
+    "answer": 0,
+    "shortAnswer": "Thể chất, tâm thần và xã hội"
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "Mô hình nào dưới đây là không phải là mô hình can thiệp của sức khỏe môi trường?",
+    "choices": [
+      "Mô hình can thiệp sức khỏe cộng đồng",
+      "Mô hình can thiệp lâm sàng",
+      "Mô hình hướng đến quản lý môi trường",
+      "Mô hình can thiệp sức khỏe người dân"
+    ],
+    "answer": 3,
+    "shortAnswer": "Mô hình can thiệp sức khỏe người dân"
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "Môi trường là:",
+    "choices": [
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo quan hệ mật thiết với nhau, có ảnh hưởng tới đời sống, sản xuất, sự tồn tại, phát triển của con người và thiên nhiên.",
+      "Môi trường bao gồm các nhân tố thiên nhiên như vật lý, hóa học, sinh học, tồn tại ngoài ý muốn của con người",
+      "Môi trường là tổng thể các quan hệ giữa người với người",
+      "Môi trường bao gồm các yếu tố tổn tại khách quan và chủ quan."
+    ],
+    "answer": 0,
+    "shortAnswer": "Tập hợp các yếu tố tự nhiên và nhân tạo ảnh hưởng tới đời sống con người"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "Mục tiêu của mô hình can thiệp sức khỏe lâm sàng là gì?",
+    "choices": [
+      "Bảo vệ con người bằng việc ngăn chặn suy thoái môi trường",
+      "Ngăn ngừa một bệnh cụ thể dẫn đến tử vong",
+      "Ngăn chặn sự phát triển của bệnh sau khi cộng đồng đã tiếp xúc với yếu tố nguy cơ",
+      "Tiếp cận trong khám chữa bệnh cộng đồng"
+    ],
+    "answer": 2,
+    "shortAnswer": "Ngăn chặn sự phát triển của bệnh sau khi cộng đồng tiếp xúc yếu tố nguy cơ"
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "Cấu trúc hữu sinh của quần xã KHÔNG có nhóm nào dưới đây?",
+    "choices": [
+      "Sinh vật sản xuất",
+      "Sinh vật phân hủy",
+      "Sinh vật trung gian",
+      "Sinh vật tiêu thụ"
+    ],
+    "answer": 2,
+    "shortAnswer": "Sinh vật trung gian"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "Môi trường xã hội là:",
+    "choices": [
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo",
+      "Môi trường bao gồm các nhân tố thiên nhiên như vật lý, hóa học, sinh học",
+      "Môi trường là tổng thể các quan hệ giữa người với người",
+      "Môi trường gắn giữa người với người"
+    ],
+    "answer": 2,
+    "shortAnswer": "Tổng thể các quan hệ giữa người với người (luật lệ, thể chế, tổ chức...)"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "Nhân tố quan trọng nhất ảnh hưởng đến cân bằng sinh thái là gì?",
+    "choices": [
+      "Số lượng các động vật trong hệ sinh thái",
+      "Mối quan hệ giữa sinh vật sản xuất và sinh vật tiêu thụ",
+      "Số lượng nhiều các loài vật thiên địch",
+      "Tính đa dạng sinh học của hệ sinh thái"
+    ],
+    "answer": 1,
+    "shortAnswer": "Mối quan hệ giữa sinh vật sản xuất và sinh vật tiêu thụ"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "Sức khỏe bị ảnh hưởng bởi yếu tố nào của môi trường?",
+    "choices": [
+      "Tâm lý, tai nạn, sinh học, hóa học, độc học",
+      "Tai nạn, sinh học, hóa lý, độc học, vật lý",
+      "Tâm lý, tai nạn, sinh học, hóa học, vật lý",
+      "Sinh học, hóa học, vật lý, sinh lý, tai nạn"
+    ],
+    "answer": 3,
+    "shortAnswer": "Sinh học, hóa học, vật lý, sinh lý, tai nạn"
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "Ô nhiễm trắng là gì?",
+    "choices": [
+      "Ô nhiễm do đồ nhựa và túi nilon",
+      "Ô nhiễm do tảo",
+      "Ô nhiễm do bụi",
+      "Ô nhiễm do khai thác đá"
+    ],
+    "answer": 0,
+    "shortAnswer": "Ô nhiễm do đồ nhựa và túi nilon"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "Bốn họ chính chịu trách nhiệm trong vấn đề suy thoái tầng ôn là?",
+    "choices": [
+      "NOx, HOx, ClOx, BrOx",
+      "NO, HOx, ClOx, BrOx",
+      "NO, HO, ClOx, BrOx",
+      "NOx, HO, ClO, BrOx"
+    ],
+    "answer": 0,
+    "shortAnswer": "NOx, HOx, ClOx, BrOx"
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "Tác hại chính của ô nhiễm tiếng ồn là gì?",
+    "choices": [
+      "Suy giảm thính giác",
+      "Suy giảm thị giác",
+      "Suy giảm vị giác",
+      "Suy giảm xúc giác"
+    ],
+    "answer": 0,
+    "shortAnswer": "Suy giảm thính giác"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "Những chất nào sau đây là chất ô nhiễm không khí thứ cấp?",
+    "choices": [
+      "CO, NH3",
+      "NH3, SO2",
+      "SO2, NO",
+      "SO3, HNO3"
+    ],
+    "answer": 0,
+    "shortAnswer": "CO, NH3 (theo tài liệu được highlight)"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "question": "Nước được coi là ô nhiễm khi:",
+    "choices": [
+      "Nồng độ các chất ô nhiễm đạt tiêu chuẩn cho phép",
+      "Nồng độ các chất ô nhiễm dưới tiêu chuẩn cho phép",
+      "Nồng độ các chất ô nhiễm vượt tiêu chuẩn cho phép",
+      "Không có các chất ô nhiễm"
+    ],
+    "answer": 2,
+    "shortAnswer": "Nồng độ các chất ô nhiễm vượt tiêu chuẩn cho phép"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "Ổ tăng điện li (tăng nhiệt) xảy ra hiện tượng:",
+    "choices": [
+      "Phân tử và nguyên tử chuyển động với tốc độ cao",
+      "Nhiệt độ dao động mạnh (-100oC đến hơn 2000oC)",
+      "Có tầng ozon cản tia cực tím",
+      "Thời tiết thay đổi"
+    ],
+    "answer": 1,
+    "shortAnswer": "Nhiệt độ dao động mạnh (-100oC đến hơn 2000oC)"
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "question": "Hiệu ứng nhà kính chủ yếu xảy ra ở tầng nào của khí quyển?",
+    "choices": [
+      "Tầng bình lưu",
+      "Tầng đối lưu",
+      "Tầng nhiệt",
+      "Tầng trung lưu"
+    ],
+    "answer": 1,
+    "shortAnswer": "Tầng đối lưu"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Hiện tượng mây dạ quang xảy ra ở tầng nào của lớp khí quyển?",
+    "choices": [
+      "Tầng bình lưu",
+      "Tầng đối lưu",
+      "Tầng nhiệt",
+      "Tầng trung lưu"
+    ],
+    "answer": 3,
+    "shortAnswer": "Tầng trung lưu"
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "question": "Phát biểu nào sau đây đúng về ảnh hưởng của tia UV đến sức khỏe con người?",
+    "choices": [
+      "Giảm khả năng miễn dịch, gây bệnh về da, mắt",
+      "Tăng cường sức khỏe cho làn da",
+      "Tăng cường sức khỏe cho đôi mắt",
+      "Tăng khả năng miễn dịch của cơ thể người"
+    ],
+    "answer": 0,
+    "shortAnswer": "Giảm khả năng miễn dịch, gây bệnh về da, mắt"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "question": "Hiệu ứng nhà kính là:",
+    "choices": [
+      "Hiện tượng nóng lên của lớp khí quyển trái đất",
+      "Hiện tượng nóng lên của lớp vỏ trái đất",
+      "Hiện tượng trái đất có khả năng cản tia UV",
+      "Hiện tượng suy giảm tầng ozon"
+    ],
+    "answer": 0,
+    "shortAnswer": "Hiện tượng nóng lên của lớp khí quyển trái đất"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "question": "Mưa axit là:",
+    "choices": [
+      "Hiện tượng nước mưa có pH >7",
+      "Hiện tượng nước mưa có pH >5.6",
+      "Hiện tượng nước mưa có pH ≤5.6",
+      "Hiện tượng nước mưa có pH =6"
+    ],
+    "answer": 2,
+    "shortAnswer": "Hiện tượng nước mưa có pH ≤5.6"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "Ozon là chất khí có hại đối với sinh vật và con người khi có mặt ở tầng nào?",
+    "choices": [
+      "Tăng đối lưu",
+      "Tăng bình lưu",
+      "Tăng trung lưu",
+      "Tăng ngoài"
+    ],
+    "answer": 1,
+    "shortAnswer": "Tăng bình lưu (theo tài liệu được highlight)"
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "Thành phần của khói mù quang hóa có chứa chất nào?",
+    "choices": [
+      "Aldehydes",
+      "CO2",
+      "CH4",
+      "NH3"
+    ],
+    "answer": 2,
+    "shortAnswer": "CH4 (theo trang được highlight)"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "Khí quyển là:",
+    "choices": [
+      "Hỗn hợp khí bao xung quanh trái đất",
+      "Hỗn hợp chất lỏng bao xung quanh trái đất",
+      "Hỗn hợp khí và chất lỏng bao xung quanh trái đất",
+      "Hỗn hợp khí, lòng rắn bao xung quanh trái đất"
+    ],
+    "answer": 0,
+    "shortAnswer": "Hỗn hợp khí bao xung quanh trái đất"
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "question": "Khí sulfur dioxide (SO2) chủ yếu sinh ra từ:",
+    "choices": [
+      "Do đốt cháy nhiên liệu hóa thạch, khói thải nhà máy điện",
+      "Các đám lầy",
+      "Chất thải gia súc, gia cầm",
+      "Trong quá trình xảy ra bão bụi"
+    ],
+    "answer": 0,
+    "shortAnswer": "Do đốt cháy nhiên liệu hóa thạch, khói thải nhà máy điện"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "Hiệu ứng nhà kính xảy ra ở đâu?",
+    "choices": [
+      "Trong đất",
+      "Trong rừng",
+      "Trên núi cao",
+      "Trong khí quyển"
+    ],
+    "answer": 3,
+    "shortAnswer": "Trong khí quyển"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "question": "Giải pháp nào sau đây được xem là giải pháp hiệu quả nhất trong việc giảm thiểu ô nhiễm tiếng ồn?",
+    "choices": [
+      "Trồng cây",
+      "Giữ vệ sinh nhà cửa",
+      "Kéo rèm",
+      "Bật quạt"
+    ],
+    "answer": 2,
+    "shortAnswer": "Kéo rèm (theo tài liệu highlight)"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "Melatonin còn được gọi là gì?",
+    "choices": [
+      "Hóc môn bóng tối",
+      "Hóc môn hắc tố",
+      "Sắc tố da",
+      "Bạch tạng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Hóc môn bóng tối"
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "question": "Tác động chính mà sự thay đổi khí hậu có thể ảnh hưởng tới sức khỏe cộng đồng là:",
+    "choices": [
+      "Tạo điều kiện thuận lợi cho sự bùng nổ các bệnh dịch truyền nhiễm",
+      "Giảm khả năng lây truyền các bệnh truyền nhiễm",
+      "Làm tăng tuổi thọ con người",
+      "Làm tăng nhiệt độ Trái đất"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tạo điều kiện thuận lợi cho sự bùng nổ các bệnh dịch truyền nhiễm"
+  },
+  {
+    "id": 28,
+    "type": "short",
+    "question": "Nêu 5 thời kỳ của bệnh truyền nhiễm (liệt kê).",
+    "shortAnswer": "1. Thời kỳ nung bệnh\n2. Thời kỳ khởi phát\n3. Thời kỳ toàn phát\n4. Thời kỳ lui bệnh\n5. Thời kỳ hồi phục"
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "question": "Theo bạn, ô nhiễm không khí sơ cấp là gì?",
+    "choices": [
+      "Các chất ô nhiễm được thải trực tiếp từ nguồn phát thải",
+      "Các chất ô nhiễm được hình thành từ phản ứng hóa học trong không khí",
+      "Các chất ô nhiễm có trong nước",
+      "Các chất ô nhiễm đã được xử lý"
+    ],
+    "answer": 0,
+    "shortAnswer": "Là các chất ô nhiễm được thải trực tiếp từ nguồn phát thải (sơ cấp)."
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "SBS (Sick Building Syndrome) thường liên quan đến yếu tố nào?",
+    "choices": [
+      "Điều kiện môi trường trong nhà (không khí, thông gió)",
+      "Thiên tai",
+      "Nhiệt độ ngoài trời",
+      "Biến đổi khí hậu toàn cầu"
+    ],
+    "answer": 0,
+    "shortAnswer": "SBS liên quan đến điều kiện môi trường trong nhà như thông gió kém, VOCs, nấm mốc."
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "Chất gây ô nhiễm không khí thứ cấp là gì?",
+    "choices": [
+      "Chất được thải trực tiếp từ nguồn",
+      "Chất được tạo thành từ các chất ô nhiễm sơ cấp qua phản ứng hóa học",
+      "Chất có sẵn trong đất",
+      "Chất trong nước thải"
+    ],
+    "answer": 1,
+    "shortAnswer": "Là các chất được tạo thành từ các chất ô nhiễm sơ cấp qua phản ứng hóa học trong không khí."
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "question": "Nguyên nhân chính gây mưa axit là do khí nào sau đây?",
+    "choices": [
+      "SO2 và NOx",
+      "CO2",
+      "O2",
+      "N2"
+    ],
+    "answer": 0,
+    "shortAnswer": "Mưa axit chủ yếu do SO2 và NOx phản ứng tạo axit."
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "question": "Tầng ozon có vai trò chính là gì?",
+    "choices": [
+      "Cản bức xạ UV gây hại",
+      "Tạo mưa",
+      "Tạo ôzôn mặt đất",
+      "Tăng nhiệt độ bề mặt"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tầng ozon cản bức xạ cực tím (UV) gây hại cho sinh vật."
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "question": "Nguyên nhân gây suy giảm tầng ozon chủ yếu liên quan tới nhóm chất nào?",
+    "choices": [
+      "CFCs và halon",
+      "CO2",
+      "CH4",
+      "O2"
+    ],
+    "answer": 0,
+    "shortAnswer": "CFCs (chlorofluorocarbons) và halon gây suy giảm ozon."
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "question": "Để giảm thiểu ô nhiễm tiếng ồn trong nhà, biện pháp hiệu quả nhất là:",
+    "choices": [
+      "Kéo rèm, sử dụng vật liệu hấp thụ âm",
+      "Bật quạt mạnh",
+      "Sử dụng đèn sáng",
+      "Mở cửa sổ liên tục"
+    ],
+    "answer": 0,
+    "shortAnswer": "Dùng vật liệu cách âm, kéo rèm, giảm nguồn tiếng ồn là hiệu quả."
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "Yếu tố nào KHÔNG ảnh hưởng đến đáp ứng của cơ thể trước tác động môi trường?",
+    "choices": [
+      "Yếu tố di truyền",
+      "Yếu tố cá tính",
+      "Yếu tố trình trạng dinh dưỡng",
+      "Yếu tố học vấn"
+    ],
+    "answer": 3,
+    "shortAnswer": "Yếu tố học vấn không trực tiếp ảnh hưởng sinh lý đáp ứng môi trường."
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "question": "Một trong những tác hại của tia UV lên cơ thể là:",
+    "choices": [
+      "Gây tổn thương da và mắt, làm giảm miễn dịch",
+      "Tăng sản xuất vitamin C",
+      "Giảm nhiệt độ cơ thể",
+      "Cải thiện giấc ngủ"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tia UV gây ung thư da, tổn thương mắt và giảm miễn dịch."
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "question": "Yếu tố vật lý có thể ảnh hưởng đến môi trường trong nhà gồm:",
+    "choices": [
+      "Nhiệt độ, độ ẩm, ánh sáng, tiếng ồn",
+      "LOX và NOX",
+      "Công nghệ mạng",
+      "Môi trường không ảnh hưởng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nhiệt độ, độ ẩm, ánh sáng, tiếng ồn là các yếu tố vật lý ảnh hưởng môi trường nhà."
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "question": "Tác nhân nào thường gây ra hội chứng nhà kín (SBS)?",
+    "choices": [
+      "Phấn hoa, vi khuẩn, virus, nấm mốc",
+      "Thủy triều",
+      "Động đất",
+      "Nhiệt độ bề mặt"
+    ],
+    "answer": 0,
+    "shortAnswer": "SBS thường do phấn hoa, vi khuẩn, virus, nấm mốc, VOCs."
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "question": "Tài nguyên tự nhiên bao gồm yếu tố nào dưới đây?",
+    "choices": [
+      "Yếu tố nhân tạo",
+      "Yếu tố vật chất tự nhiên như nước, đất, khoáng sản",
+      "Sản phẩm công nghiệp",
+      "Công trình xây dựng"
+    ],
+    "answer": 1,
+    "shortAnswer": "Tài nguyên tự nhiên gồm nước, đất, khoáng sản, khí quyển."
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "Để bảo đảm an toàn thực phẩm, chúng ta cần chú ý tới yếu tố nào?",
+    "choices": [
+      "Vệ sinh, nhiệt độ bảo quản, chất phụ gia đúng nhãn",
+      "Chỉ ăn thực phẩm nhập khẩu",
+      "Ăn nhiều muối",
+      "Không rửa thực phẩm"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vệ sinh, bảo quản đúng nhiệt độ và sử dụng phụ gia theo nhãn."
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "question": "Các tác nhân chính gây mất an toàn thực phẩm gồm:",
+    "choices": [
+      "Vật lý, hóa học, ký sinh trùng",
+      "Chỉ hóa học",
+      "Chỉ vi khuẩn",
+      "Ánh sáng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vật lý, hóa học, sinh học (vi sinh, ký sinh) đều là tác nhân."
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "question": "Độ pH của mưa axit thường nhỏ hơn hoặc bằng giá trị nào?",
+    "choices": [
+      "pH > 7",
+      "pH > 5.6",
+      "pH ≤ 5.6",
+      "pH = 7"
+    ],
+    "answer": 2,
+    "shortAnswer": "Mưa axit: pH ≤ 5.6"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "question": "Nguyên nhân cơ bản làm tăng ô nhiễm đô thị là gì?",
+    "choices": [
+      "Tăng dân số, công nghiệp hóa, giao thông",
+      "Giảm hoạt động kinh tế",
+      "Tăng diện tích xanh",
+      "Sử dụng năng lượng sạch"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tăng dân số, công nghiệp hóa và giao thông là nguyên nhân chính."
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "question": "Phát biểu nào đúng về ôzôn tại mặt đất?",
+    "choices": [
+      "Có lợi cho sức khỏe con người",
+      "Gây hại khi tồn tại ở tầng đối lưu gần mặt đất",
+      "Không ảnh hưởng gì",
+      "Là thành phần của đất"
+    ],
+    "answer": 1,
+    "shortAnswer": "Ozon mặt đất (tropospheric ozone) gây hại cho sức khỏe."
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "Nguồn chính phát thải CO2 toàn cầu là:",
+    "choices": [
+      "Đốt nhiên liệu hóa thạch (điện, giao thông)",
+      "Nông nghiệp",
+      "Gió mạnh",
+      "Quá trình quang hợp"
+    ],
+    "answer": 0,
+    "shortAnswer": "Đốt nhiên liệu hóa thạch trong sản xuất điện và giao thông."
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "question": "Việc sử dụng phụ gia thực phẩm đúng cách là:",
+    "choices": [
+      "Sử dụng theo hướng dẫn ghi trên nhãn",
+      "Dùng bất cứ lượng nào",
+      "Không quan tâm đến nhãn",
+      "Luôn tránh tất cả phụ gia"
+    ],
+    "answer": 0,
+    "shortAnswer": "Sử dụng theo hướng dẫn ghi trên nhãn (liều lượng cho phép)."
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "question": "Khi nào nước được coi là ô nhiễm?",
+    "choices": [
+      "Khi có mùi thơm",
+      "Khi nồng độ các chất ô nhiễm vượt tiêu chuẩn cho phép",
+      "Khi nước sạch",
+      "Khi có nhiều oxy"
+    ],
+    "answer": 1,
+    "shortAnswer": "Khi nồng độ các chất ô nhiễm vượt tiêu chuẩn cho phép."
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "question": "Biện pháp quản lý chất thải hiệu quả gồm:",
+    "choices": [
+      "Phân loại, thu gom, tái sử dụng, xử lý",
+      "Đổ tất cả ra sông",
+      "Thiêu hủy mọi thứ không phân loại",
+      "Không thu gom"
+    ],
+    "answer": 0,
+    "shortAnswer": "Phân loại, thu gom, giảm thiểu, tái sử dụng và xử lý hợp lý."
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "question": "Một trong các thành phần chính của môi trường vật lý là:",
+    "choices": [
+      "Nhiệt độ, độ ẩm, ánh sáng, pH",
+      "Sự yêu thương",
+      "Tình cảm",
+      "Ngôn ngữ"
+    ],
+    "answer": 0,
+    "shortAnswer": "Các điều kiện khí hậu: nhiệt độ, ánh sáng, pH, độ ẩm..."
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "question": "Khí thải từ nhà máy điện chủ yếu chứa chất nào gây ô nhiễm không khí?",
+    "choices": [
+      "SO2, NOx, CO2",
+      "O2",
+      "N2",
+      "H2O"
+    ],
+    "answer": 0,
+    "shortAnswer": "Khí thải chứa SO2, NOx, CO2 là các chất gây ô nhiễm."
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "question": "Cách tốt nhất để giảm phát thải CO2 tại nguồn là:",
+    "choices": [
+      "Sử dụng năng lượng tái tạo, tiết kiệm năng lượng",
+      "Tăng dùng than",
+      "Chặt cây",
+      "Tăng giao thông cá nhân"
+    ],
+    "answer": 0,
+    "shortAnswer": "Chuyển sang năng lượng tái tạo và tiết kiệm năng lượng."
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "question": "Để phòng chống dịch, giai đoạn nào sau đây cho thấy dịch đã lan rộng nhất?",
+    "choices": [
+      "Thời kỳ nung bệnh",
+      "Thời kỳ khởi phát",
+      "Thời kỳ toàn phát",
+      "Thời kỳ hồi phục"
+    ],
+    "answer": 2,
+    "shortAnswer": "Thời kỳ toàn phát là giai đoạn bệnh lan rộng mạnh nhất."
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "question": "Tiếp xúc lâu dài với khói thuốc lá trong nhà có thể gây:",
+    "choices": [
+      "Các bệnh hô hấp, ung thư",
+      "Tăng thị lực",
+      "Cải thiện sức khỏe tim mạch",
+      "Không ảnh hưởng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Gây bệnh hô hấp, ung thư phổi và các vấn đề sức khỏe khác."
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "question": "Chất VOC (volatile organic compounds) hay gặp trong nhà là gì?",
+    "choices": [
+      "Hợp chất hữu cơ bay hơi từ sơn, vecni, chất tẩy rửa",
+      "Nước",
+      "Đất",
+      "Sắt"
+    ],
+    "answer": 0,
+    "shortAnswer": "VOC từ sơn, vecni, chất tẩy rửa và mỹ phẩm có thể gây ô nhiễm trong nhà."
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "Hiệu ứng nhà kính làm tăng điều gì trên Trái đất?",
+    "choices": [
+      "Nhiệt độ trung bình",
+      "Lượng mưa giảm toàn bộ",
+      "Không thay đổi gì",
+      "Tầng ozon phục hồi"
+    ],
+    "answer": 0,
+    "shortAnswer": "Gây tăng nhiệt độ trung bình toàn cầu (global warming)."
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "question": "Đâu là tác động của biến đổi khí hậu lên y tế công cộng?",
+    "choices": [
+      "Tạo điều kiện cho dịch bệnh bùng phát, gia tăng nhiệt, thiên tai",
+      "Giảm bệnh truyền nhiễm",
+      "Tăng tuổi thọ nhanh chóng",
+      "Không tác động"
+    ],
+    "answer": 0,
+    "shortAnswer": "Biến đổi khí hậu có thể tạo điều kiện cho bệnh truyền nhiễm và tác động sức khỏe cộng đồng."
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "question": "Để giảm nguy cơ ô nhiễm nước do nông nghiệp, nên thực hiện:",
+    "choices": [
+      "Sử dụng phân bón hợp lý, quản lý thuốc trừ sâu",
+      "Đổ phân trực tiếp xuống sông",
+      "Tăng sử dụng thuốc trừ sâu",
+      "Không xử lý chất thải"
+    ],
+    "answer": 0,
+    "shortAnswer": "Quản lý phân bón và thuốc trừ sâu, xử lý nước thải nông nghiệp."
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "question": "Yếu tố nào không phải là thành phần của môi trường sinh học?",
+    "choices": [
+      "Sinh vật sản xuất",
+      "Sinh vật tiêu thụ",
+      "Sinh vật phân hủy",
+      "Môi trường pháp luật"
+    ],
+    "answer": 3,
+    "shortAnswer": "Môi trường pháp luật không phải thành phần sinh học."
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "question": "Đặc điểm nào của môi trường tự nhiên?",
+    "choices": [
+      "Bao gồm các nhân tố vật lý, hóa học, sinh học",
+      "Là do con người tạo ra hoàn toàn",
+      "Không ảnh hưởng tới con người",
+      "Luôn bất biến"
+    ],
+    "answer": 0,
+    "shortAnswer": "Môi trường tự nhiên gồm nhân tố vật lý, hóa học, sinh học."
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "Biện pháp nào giúp giảm ô nhiễm không khí giao thông?",
+    "choices": [
+      "Phát triển giao thông công cộng, xe điện",
+      "Tăng xe máy cá nhân",
+      "Không kiểm soát khí thải",
+      "Đốt thêm nhiên liệu"
+    ],
+    "answer": 0,
+    "shortAnswer": "Phát triển giao thông công cộng và chuyển sang xe ít phát thải."
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "question": "Thành phần nào của môi trường vật lý ảnh hưởng đến sự phát triển vi sinh vật?",
+    "choices": [
+      "Nhiệt độ, độ ẩm, pH",
+      "Tốc độ internet",
+      "Tiếng ồn",
+      "Màu sơn"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nhiệt độ, độ ẩm và pH ảnh hưởng lớn tới vi sinh vật."
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "question": "Trong xử lý rác thải, phương pháp nào thân thiện với môi trường nhất?",
+    "choices": [
+      "Tái chế và tái sử dụng",
+      "Đổ đại trà xuống ao",
+      "Đốt không kiểm soát",
+      "Chôn lấp bừa bãi"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tái chế và tái sử dụng là phương pháp tốt nhất."
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "question": "Khái niệm 'nguy cơ' (risk) trong đánh giá môi trường là gì?",
+    "choices": [
+      "Xác suất xuất hiện một hiện tượng liên quan đến biến số",
+      "Một loại chất ô nhiễm",
+      "Loại cây trồng",
+      "Tên một bệnh"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nguy cơ là xác suất xuất hiện một hiện tượng liên quan tới biến số."
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "question": "Trong phòng chống dịch, bước nào sau đây là đầu tiên trong đánh giá nguy cơ?",
+    "choices": [
+      "Nhận dạng sự nguy hiểm",
+      "Đánh giá nguy cơ định lượng",
+      "Định rõ tính chất sự cố",
+      "Hành động can thiệp"
+    ],
+    "answer": 0,
+    "shortAnswer": "Bước 1: nhận dạng sự nguy hiểm."
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "Thành phần nào sau đây không phải là nhân tố sinh học gây SBS?",
+    "choices": [
+      "Vi khuẩn, virus, nấm mốc",
+      "Phấn hoa",
+      "Khói thuốc",
+      "Đá"
+    ],
+    "answer": 3,
+    "shortAnswer": "Đá không phải nhân tố sinh học gây SBS."
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "question": "Biện pháp nào giúp giảm tác động của biến đổi khí hậu?",
+    "choices": [
+      "Giảm phát thải nhà kính, trồng cây",
+      "Tăng khai thác than",
+      "Đốt rừng",
+      "Tăng tiêu thụ năng lượng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Giảm phát thải và tăng trồng cây giúp giảm biến đổi khí hậu."
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "Trong xử lý nước thải, bước nào quan trọng để bảo vệ môi trường?",
+    "choices": [
+      "Xử lý sinh học và loại bỏ chất độc trước khi thải ra môi trường",
+      "Thải trực tiếp ra sông",
+      "Không xử lý",
+      "Pha loãng bằng nước sạch"
+    ],
+    "answer": 0,
+    "shortAnswer": "Xử lý sinh học và loại bỏ chất độc là cần thiết."
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "question": "Tầm quan trọng của an toàn thực phẩm là gì?",
+    "choices": [
+      "Bảo vệ sức khỏe cộng đồng, tránh ngộ độc thực phẩm",
+      "Tăng doanh thu cho nhà sản xuất",
+      "Không quan trọng",
+      "Chỉ cần cho trẻ em"
+    ],
+    "answer": 0,
+    "shortAnswer": "Đảm bảo an toàn thực phẩm nhằm bảo vệ sức khỏe cộng đồng."
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "Các yếu tố nào thuộc yếu tố vô sinh của hệ sinh thái?",
+    "choices": [
+      "Nhiệt độ, ánh sáng, lượng mưa, pH",
+      "Động vật",
+      "Vi khuẩn",
+      "Cây cối"
+    ],
+    "answer": 0,
+    "shortAnswer": "Yếu tố vô sinh: nhiệt độ, ánh sáng, lượng mưa, pH..."
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "Cân bằng sinh thái bị ảnh hưởng khi nào?",
+    "choices": [
+      "Khi mất cân bằng giữa sinh vật sản xuất và tiêu thụ",
+      "Khi mọi thứ ổn định",
+      "Chỉ khi có động đất",
+      "Khi không có người"
+    ],
+    "answer": 0,
+    "shortAnswer": "Mất cân bằng trong quan hệ sản xuất-tiêu thụ gây ảnh hưởng đến hệ sinh thái."
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "Phát biểu nào đúng về ô nhiễm đất?",
+    "choices": [
+      "Là quá trình làm biến đổi hoặc thải vào đất các chất ô nhiễm làm thay đổi tính chất và cấu trúc của nó",
+      "Đất không thể ô nhiễm",
+      "Ô nhiễm đất chỉ do thiên tai",
+      "Đất chỉ bị ảnh hưởng bởi nhiệt độ"
+    ],
+    "answer": 0,
+    "shortAnswer": "Ô nhiễm đất là quá trình biến đổi do thải các chất làm mất tính chất tự nhiên của đất."
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "question": "Yếu tố nào sau đây thường dùng để phân loại nguồn ô nhiễm?",
+    "choices": [
+      "Nguồn điểm và nguồn phân tán",
+      "Chỉ khí quyển",
+      "Chỉ nước",
+      "Không phân loại"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nguồn ô nhiễm được phân thành nguồn điểm (point) và nguồn phân tán (non-point)."
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "Triển khai hệ thống quản lý môi trường (EMS) giúp gì?",
+    "choices": [
+      "Giảm tác động môi trường của tổ chức, tuân thủ luật lệ",
+      "Tăng phát thải",
+      "Không ảnh hưởng",
+      "Tăng chi phí vô ích"
+    ],
+    "answer": 0,
+    "shortAnswer": "EMS giúp giảm tác động môi trường và đảm bảo tuân thủ quy định."
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "question": "Trong phòng chống ô nhiễm tiếng ồn, biện pháp kỹ thuật bao gồm:",
+    "choices": [
+      "Cách âm, giảm nguồn phát, thay đổi vật liệu xây dựng",
+      "Tăng tiếng ồn",
+      "Không có giải pháp kỹ thuật",
+      "Chỉ dùng thuốc"
+    ],
+    "answer": 0,
+    "shortAnswer": "Biện pháp kỹ thuật là cách âm, giảm nguồn phát và sử dụng vật liệu hấp thụ."
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "Chất nào sau đây là khí nhà kính mạnh?",
+    "choices": [
+      "CO2",
+      "CH4",
+      "N2",
+      "O2"
+    ],
+    "answer": 1,
+    "shortAnswer": "CH4 (methane) là khí nhà kính mạnh hơn CO2 theo độ ấm."
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "question": "Phương pháp nào giúp giảm ô nhiễm nguồn nước do công nghiệp?",
+    "choices": [
+      "Xử lý nước thải trước khi thải ra môi trường",
+      "Thải trực tiếp không xử lý",
+      "Đổ thải vào ao",
+      "Đốt tất cả nước thải"
+    ],
+    "answer": 0,
+    "shortAnswer": "Xử lý nước thải công nghiệp trước khi thải là cần thiết."
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "Một trong những nguyên nhân chính của ngộ độc thực phẩm là:",
+    "choices": [
+      "Vi khuẩn gây bệnh trong thực phẩm do chế biến không sạch",
+      "Ăn nhiều rau",
+      "Uống nước sạch",
+      "Sử dụng máy ép"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vi khuẩn do chế biến, bảo quản thực phẩm không hợp vệ sinh."
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "question": "Chỉ số nào thường dùng để đánh giá chất lượng không khí đô thị?",
+    "choices": [
+      "AQI (Air Quality Index)",
+      "VND",
+      "GDP",
+      "DB"
+    ],
+    "answer": 0,
+    "shortAnswer": "AQI là chỉ số phổ biến đánh giá chất lượng không khí."
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "question": "Tại sao cần kiểm soát tiếng ồn nơi làm việc?",
+    "choices": [
+      "Để tránh tổn thương thính lực và tăng năng suất lao động",
+      "Để tăng tiếng ồn",
+      "Không cần kiểm soát",
+      "Để giảm ánh sáng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Giảm tổn thương thính lực và cải thiện điều kiện làm việc."
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "Yếu tố nào dưới đây KHÔNG phải là yếu tố ảnh hưởng đến sức khỏe cộng đồng do biến đổi khí hậu?",
+    "choices": [
+      "Tăng khả năng truyền bệnh",
+      "Tăng bất ổn nguồn nước",
+      "Tăng tuổi thọ ngay lập tức",
+      "Gia tăng thiên tai"
+    ],
+    "answer": 2,
+    "shortAnswer": "Tăng tuổi thọ ngay lập tức không phải hệ quả trực tiếp của biến đổi khí hậu."
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "Công tác giám sát môi trường nên thực hiện ở tần suất nào?",
+    "choices": [
+      "Theo quy định, định kỳ và khi có sự cố",
+      "Chỉ một lần",
+      "Không cần giám sát",
+      "Chỉ khi trời nắng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Giám sát môi trường theo quy định, định kỳ và khi có sự cố."
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "question": "Biện pháp nào giúp giảm ô nhiễm tiếng ồn giao thông?",
+    "choices": [
+      "Hạn chế tốc độ, xây tường cách âm, cải thiện mặt đường",
+      "Tăng tốc độ xe",
+      "Xóa biển báo",
+      "Tăng ánh sáng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Hạn chế tốc độ và sử dụng hàng rào cách âm giúp giảm tiếng ồn giao thông."
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "Trong quản lý chất thải rắn đô thị, ưu tiên thứ tự xử lý là:",
+    "choices": [
+      "Giảm nguồn -> Tái sử dụng -> Tái chế -> Xử lý -> Chôn lấp",
+      "Chôn lấp -> Tái chế -> Giảm nguồn",
+      "Đầu tiên là vận chuyển xa",
+      "Không cần ưu tiên"
+    ],
+    "answer": 0,
+    "shortAnswer": "Ưu tiên: giảm nguồn, tái sử dụng, tái chế, xử lý, chôn lấp."
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "question": "Để giảm nguy cơ ngộ độc thực phẩm tại gia đình, nên làm gì?",
+    "choices": [
+      "Rửa tay, nấu chín kỹ, bảo quản đúng nhiệt độ",
+      "Ăn sống mọi thứ",
+      "Không rửa bát",
+      "Trộn đồ ăn cũ/chín"
+    ],
+    "answer": 0,
+    "shortAnswer": "Rửa tay, nấu chín thực phẩm và bảo quản lạnh đúng cách."
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Chất nào thường không phải là nguồn gây ô nhiễm hữu cơ trong nước?",
+    "choices": [
+      "Dầu mỡ, thuốc trừ sâu, phân hữu cơ",
+      "Xăng dầu",
+      "Kim loại nặng như chì",
+      "Các chất tẩy rửa hữu cơ"
+    ],
+    "answer": 2,
+    "shortAnswer": "Kim loại nặng là ô nhiễm vô cơ, không phải hữu cơ."
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "question": "Mục tiêu chính của quản lý môi trường là gì?",
+    "choices": [
+      "Bảo vệ sức khỏe con người và bảo tồn nguồn tài nguyên",
+      "Tăng phát thải",
+      "Giảm chất lượng nước",
+      "Tăng rác thải"
+    ],
+    "answer": 0,
+    "shortAnswer": "Bảo vệ sức khỏe cộng đồng và tài nguyên thiên nhiên."
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "Biện pháp phòng ngừa tại nơi làm việc để tránh SBS bao gồm:",
+    "choices": [
+      "Cải thiện thông gió, giảm VOCs, kiểm soát độ ẩm",
+      "Tăng nhiệt độ phòng",
+      "Đóng kín toàn bộ cửa sổ",
+      "Loại bỏ cây xanh"
+    ],
+    "answer": 0,
+    "shortAnswer": "Cải thiện thông gió và kiểm soát VOCs/độ ẩm giúp giảm SBS."
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "question": "Chỉ số pH trung tính là bao nhiêu?",
+    "choices": [
+      "pH = 7",
+      "pH = 0",
+      "pH = 14",
+      "pH = 5"
+    ],
+    "answer": 0,
+    "shortAnswer": "pH trung tính là 7."
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "Theo bạn, 'đa dạng sinh học' gồm những yếu tố nào?",
+    "choices": [
+      "Đa dạng loài, đa dạng di truyền, đa dạng hệ sinh thái",
+      "Chỉ loài người",
+      "Chỉ thực vật",
+      "Không liên quan đến môi trường"
+    ],
+    "answer": 0,
+    "shortAnswer": "Đa dạng sinh học gồm đa dạng loài, di truyền và hệ sinh thái."
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "Căn nguyên chính gây bệnh nghề nghiệp thường do:",
+    "choices": [
+      "Tiếp xúc nghề nghiệp lâu dài với yếu tố độc hại, lao lắng",
+      "Ăn uống hàng ngày",
+      "Nghỉ ngơi quá mức",
+      "Vận động thể thao"
+    ],
+    "answer": 0,
+    "shortAnswer": "Bệnh nghề nghiệp do tiếp xúc lâu dài với yếu tố nguy hiểm tại nơi làm việc."
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Đâu là biểu hiện cơ bản của hội chứng nhà kín?",
+    "choices": [
+      "Đau đầu, mệt mỏi, kích ứng mắt, mũi",
+      "Tăng thị lực",
+      "Ăn ngon miệng",
+      "Ngủ sâu"
+    ],
+    "answer": 0,
+    "shortAnswer": "Đau đầu, mệt mỏi và kích ứng là các triệu chứng thường gặp của SBS."
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "question": "Thành phần nào là nguồn chính phát thải NOx?",
+    "choices": [
+      "Giao thông, đốt nhiên liệu",
+      "Nước ngầm",
+      "Cây cối",
+      "Sản phẩm nông nghiệp"
+    ],
+    "answer": 0,
+    "shortAnswer": "NOx chủ yếu từ giao thông và đốt nhiên liệu."
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "Trong các biện pháp phòng ngừa ô nhiễm, 'nguyên tắc 3R' là gì?",
+    "choices": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Rekindle, Reboot",
+      "Read, Write, Run",
+      "React, Remove, Restore"
+    ],
+    "answer": 0,
+    "shortAnswer": "Reduce (giảm), Reuse (tái sử dụng), Recycle (tái chế)."
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "question": "Nguồn phát thải nào sau đây chủ yếu tạo ra SO2?",
+    "choices": [
+      "Đốt than và nhiên liệu chứa lưu huỳnh",
+      "Gió",
+      "Nước mưa",
+      "Trái đất"
+    ],
+    "answer": 0,
+    "shortAnswer": "SO2 chủ yếu phát sinh từ đốt than và nhiên liệu chứa lưu huỳnh."
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "Tác động của ô nhiễm không khí đến hệ sinh thái bao gồm:",
+    "choices": [
+      "Làm giảm năng suất cây trồng, rối loạn hệ sinh thái",
+      "Tăng màu sắc cây",
+      "Không có tác động",
+      "Tăng đất nông nghiệp"
+    ],
+    "answer": 0,
+    "shortAnswer": "Ô nhiễm làm giảm năng suất cây trồng và gây rối loạn hệ sinh thái."
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "question": "Khi nào cần thực hiện đánh giá tác động môi trường (ĐTM)?",
+    "choices": [
+      "Trước khi thực hiện dự án có khả năng ảnh hưởng môi trường",
+      "Sau khi dự án hoàn thành",
+      "Không cần đánh giá",
+      "Khi dự án nhỏ"
+    ],
+    "answer": 0,
+    "shortAnswer": "ĐTM được thực hiện trước khi triển khai dự án để đánh giá ảnh hưởng."
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "Biện pháp giảm thiểu rủi ro khi làm việc với hóa chất là:",
+    "choices": [
+      "Sử dụng PPE, quy trình an toàn, lưu trữ phù hợp",
+      "Không bận tâm",
+      "Ăn uống tại nơi làm việc",
+      "Không huấn luyện nhân viên"
+    ],
+    "answer": 0,
+    "shortAnswer": "Sử dụng PPE, tuân thủ quy trình và lưu trữ an toàn."
+  },
+  {
+    "id": 99,
+    "type": "mcq",
+    "question": "Trong chu trình nước, quá trình nào giúp loại bỏ một số chất ô nhiễm sinh học?",
+    "choices": [
+      "Xử lý sinh học (vi sinh) trong hệ thống xử lý nước thải",
+      "Đốt cháy nước",
+      "Trộn nước bẩn với nước sạch",
+      "Đổ trực tiếp ra sông"
+    ],
+    "answer": 0,
+    "shortAnswer": "Xử lý sinh học bằng vi sinh giúp loại bỏ chất ô nhiễm hữu cơ và vi sinh."
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "question": "Các biện pháp giám sát dịch bệnh gồm:",
+    "choices": [
+      "Thu thập dữ liệu, xét nghiệm, báo cáo và phản hồi",
+      "Không thu thập dữ liệu",
+      "Chỉ truyền miệng",
+      "Không có hành động"
+    ],
+    "answer": 0,
+    "shortAnswer": "Giám sát dịch gồm thu thập dữ liệu, xét nghiệm, báo cáo và phản hồi."
+  },
+  {
+    "id": 101,
+    "type": "mcq",
+    "question": "Yếu tố nào giúp tăng khả năng bùng phát dịch truyền nhiễm?",
+    "choices": [
+      "Mật độ dân cư cao, điều kiện vệ sinh kém",
+      "Ăn uống lành mạnh",
+      "Ít tiếp xúc xã hội",
+      "Môi trường sạch"
+    ],
+    "answer": 0,
+    "shortAnswer": "Mật độ dân cư cao và vệ sinh kém tăng nguy cơ bùng dịch."
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "question": "Trong an toàn thực phẩm, HACCP là viết tắt của gì?",
+    "choices": [
+      "Hazard Analysis and Critical Control Points",
+      "Health and Clean Cooking Plan",
+      "High Amount Chemical Control Program",
+      "Không phải là gì"
+    ],
+    "answer": 0,
+    "shortAnswer": "HACCP = Hazard Analysis and Critical Control Points (Phân tích mối nguy và điểm kiểm soát tới hạn)."
+  },
+  {
+    "id": 103,
+    "type": "mcq",
+    "question": "Để bảo vệ tầng ozon, cần hành động nào?",
+    "choices": [
+      "Hạn chế sử dụng CFCs và các chất làm suy giảm ozon",
+      "Tăng dùng bình xịt chứa CFCs",
+      "Đốt các sản phẩm chứa CFCs",
+      "Không làm gì"
+    ],
+    "answer": 0,
+    "shortAnswer": "Hạn chế và thay thế CFCs bằng các chất an toàn hơn."
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "question": "Chất nào dưới đây là dạng ô nhiễm mùi phổ biến từ hoạt động sinh hoạt?",
+    "choices": [
+      "Hơi thối từ bãi rác, nhà máy xử lý nước thải",
+      "CO2",
+      "Nước sạch",
+      "Nhựa"
+    ],
+    "answer": 0,
+    "shortAnswer": "Mùi hôi do phân hủy hữu cơ ở bãi rác hoặc xử lý nước thải."
+  },
+  {
+    "id": 105,
+    "type": "mcq",
+    "question": "Trong hệ thống quản lý môi trường, tiêu chuẩn ISO liên quan là:",
+    "choices": [
+      "ISO 14001",
+      "ISO 9001",
+      "ISO 27001",
+      "ISO 22000"
+    ],
+    "answer": 0,
+    "shortAnswer": "ISO 14001 là tiêu chuẩn hệ thống quản lý môi trường."
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "question": "Nguyên tắc phòng ngừa (precautionary principle) ứng dụng khi nào?",
+    "choices": [
+      "Khi có bằng chứng không chắc chắn về rủi ro nhưng hậu quả tiềm tàng lớn",
+      "Khi đã chắc chắn an toàn",
+      "Luôn hoãn mọi hành động",
+      "Không áp dụng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Áp dụng khi còn chưa chắc chắn nhưng có rủi ro lớn tiềm tàng."
+  },
+  {
+    "id": 107,
+    "type": "mcq",
+    "question": "Tài liệu nào hữu ích để đánh giá chất lượng không khí tại địa phương?",
+    "choices": [
+      "Báo cáo AQI, dữ liệu quan trắc không khí",
+      "Báo cáo tài chính",
+      "Sổ liên lạc học sinh",
+      "Bản đồ giao thông"
+    ],
+    "answer": 0,
+    "shortAnswer": "Báo cáo AQI và dữ liệu quan trắc là nguồn chính để đánh giá chất lượng không khí."
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "question": "Trong phòng chống dịch, 'cách ly' nhằm mục đích gì?",
+    "choices": [
+      "Ngăn ngừa lây truyền bệnh từ người nhiễm sang người lành",
+      "Tăng sự lây lan",
+      "Giảm vệ sinh",
+      "Không có mục đích"
+    ],
+    "answer": 0,
+    "shortAnswer": "Cách ly nhằm ngăn chặn lây truyền."
+  },
+  {
+    "id": 109,
+    "type": "mcq",
+    "question": "Thực hành an toàn sinh học trong phòng thí nghiệm bao gồm:",
+    "choices": [
+      "Sử dụng tủ an toàn sinh học, PPE, huấn luyện",
+      "Không dùng PPE",
+      "Ăn uống trong phòng thí nghiệm",
+      "Không rửa tay"
+    ],
+    "answer": 0,
+    "shortAnswer": "Sử dụng tủ an toàn, PPE và huấn luyện là bắt buộc."
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "question": "Các yếu tố nào góp phần làm tăng tần suất thiên tai do biến đổi khí hậu?",
+    "choices": [
+      "Gia tăng nhiệt độ biển, bão mạnh hơn, thay đổi lượng mưa",
+      "Giảm CO2",
+      "Giảm dân số",
+      "Ổn định khí hậu"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nhiệt độ biển tăng và thay đổi lượng mưa làm tăng thiên tai."
+  },
+  {
+    "id": 111,
+    "type": "mcq",
+    "question": "Để giảm rủi ro nghề nghiệp, doanh nghiệp nên:",
+    "choices": [
+      "Đánh giá rủi ro, đào tạo, cung cấp PPE",
+      "Không làm gì",
+      "Tăng giờ làm quá mức",
+      "Loại bỏ huấn luyện"
+    ],
+    "answer": 0,
+    "shortAnswer": "Đánh giá, đào tạo và cung cấp thiết bị bảo hộ là cần thiết."
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "question": "Chất ô nhiễm nào thường liên quan đến mùi khó chịu trong nhà?",
+    "choices": [
+      "VOC, khí sulfur",
+      "Nước mưa",
+      "Tầng ozon",
+      "CO2 ở mức bình thường"
+    ],
+    "answer": 0,
+    "shortAnswer": "VOC và các khí lưu huỳnh có thể gây mùi khó chịu."
+  },
+  {
+    "id": 113,
+    "type": "mcq",
+    "question": "Trong quản lý môi trường, khái niệm 'phòng ngừa' nghĩa là:",
+    "choices": [
+      "Hành động trước khi có bằng chứng chắc chắn để tránh rủi ro",
+      "Chờ hết rủi ro mới hành động",
+      "Không can thiệp",
+      "Tăng rủi ro"
+    ],
+    "answer": 0,
+    "shortAnswer": "Phòng ngừa là hành động trước khi có bằng chứng chắc chắn để giảm nguy cơ."
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "question": "Cách tốt nhất để quản lý rác thải y tế là:",
+    "choices": [
+      "Thu gom riêng, xử lý bằng phương pháp thích hợp (đốt, vô trùng)",
+      "Trộn vào rác sinh hoạt",
+      "Đổ xuống cống",
+      "Không xử lý"
+    ],
+    "answer": 0,
+    "shortAnswer": "Thu gom riêng và xử lý an toàn là bắt buộc cho rác thải y tế."
+  },
+  {
+    "id": 115,
+    "type": "mcq",
+    "question": "Hiệu ứng đảo nhiệt đô thị (urban heat island) xảy ra do:",
+    "choices": [
+      "Bề mặt bê tông và giảm cây xanh làm tăng nhiệt độ nơi đô thị",
+      "Tăng cây xanh",
+      "Giảm dân số",
+      "Tăng nước mặt"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vật liệu thành phố hấp thụ nhiệt và ít cây xanh gây hiệu ứng này."
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "question": "Phát thải từ giao thông có thể giảm bằng:",
+    "choices": [
+      "Khuyến khích phương tiện công cộng và xe điện",
+      "Tăng sử dụng xe cá nhân",
+      "Mở thêm đường cho xe hơi",
+      "Loại bỏ xe đạp"
+    ],
+    "answer": 0,
+    "shortAnswer": "Khuyến khích giao thông công cộng và xe điện giúp giảm phát thải."
+  },
+  {
+    "id": 117,
+    "type": "mcq",
+    "question": "Triển khai hệ thống cảnh báo sớm thiên tai giúp:",
+    "choices": [
+      "Giảm thiểu thiệt hại về người và của",
+      "Tăng thiệt hại",
+      "Không ảnh hưởng",
+      "Gây hoang mang"
+    ],
+    "answer": 0,
+    "shortAnswer": "Cảnh báo sớm giúp giảm thiệt hại và chuẩn bị ứng phó."
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "question": "Các tác nhân vi sinh gây bệnh trong nước bao gồm:",
+    "choices": [
+      "Vi khuẩn, virus, ký sinh trùng",
+      "Kim loại nặng",
+      "Đất",
+      "Không có tác nhân"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vi khuẩn, virus và ký sinh trùng là các tác nhân vi sinh trong nước."
+  },
+  {
+    "id": 119,
+    "type": "mcq",
+    "question": "Cách đánh giá mức độ rủi ro môi trường thường dựa trên:",
+    "choices": [
+      "Xác suất xảy ra và mức độ nghiêm trọng của hậu quả",
+      "Chỉ mức độ nghiêm trọng",
+      "Chỉ chi phí",
+      "Chỉ quy mô dân số"
+    ],
+    "answer": 0,
+    "shortAnswer": "Rủi ro = xác suất xảy ra × mức độ nghiêm trọng hậu quả."
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "question": "Trong nhà, nguồn ô nhiễm nào thường gây dị ứng?",
+    "choices": [
+      "Nấm mốc, mạt bụi, lông động vật",
+      "CO2",
+      "Năng lượng mặt trời",
+      "Đất"
+    ],
+    "answer": 0,
+    "shortAnswer": "Nấm mốc, mạt bụi và lông động vật thường gây dị ứng trong nhà."
+  },
+  {
+    "id": 121,
+    "type": "mcq",
+    "question": "Để giảm thiểu nguy cơ bệnh nghề nghiệp, công nhân cần:",
+    "choices": [
+      "Được huấn luyện và sử dụng đồ bảo hộ đúng cách",
+      "Không cần đào tạo",
+      "Dùng đồ bảo hộ sai cách",
+      "Ăn uống ở nơi nguy hiểm"
+    ],
+    "answer": 0,
+    "shortAnswer": "Huấn luyện và sử dụng PPE là cần thiết để giảm rủi ro nghề nghiệp."
+  },
+  {
+    "id": 122,
+    "type": "mcq",
+    "question": "Phương pháp nào giúp giảm khí thải từ ngành điện?",
+    "choices": [
+      "Chuyển sang năng lượng tái tạo (gió, mặt trời)",
+      "Tăng dùng than",
+      "Tăng phát thải",
+      "Không kiểm soát"
+    ],
+    "answer": 0,
+    "shortAnswer": "Sử dụng năng lượng tái tạo thay thế nguồn phát thải lớn."
+  },
+  {
+    "id": 123,
+    "type": "mcq",
+    "question": "Các yếu tố tâm lý ảnh hưởng đến sức khỏe gồm:",
+    "choices": [
+      "Stress, các mối quan hệ xã hội, trầm cảm",
+      "Chỉ yếu tố di truyền",
+      "Nhiệt độ",
+      "Không liên quan"
+    ],
+    "answer": 0,
+    "shortAnswer": "Stress và các yếu tố tâm lý xã hội ảnh hưởng lớn tới sức khỏe."
+  },
+  {
+    "id": 124,
+    "type": "mcq",
+    "question": "Trong xử lý chất thải y tế, bước nào là bắt buộc?",
+    "choices": [
+      "Vô trùng hoặc đốt cháy theo quy định",
+      "Đổ vào hệ thống rác sinh hoạt",
+      "Bán lại cho người thu mua",
+      "Không xử lý"
+    ],
+    "answer": 0,
+    "shortAnswer": "Vô trùng hoặc đốt là phương pháp an toàn cho rác y tế."
+  },
+  {
+    "id": 125,
+    "type": "mcq",
+    "question": "Tiếp xúc với nhiệt độ cao kéo dài có thể gây:",
+    "choices": [
+      "Sốc nhiệt, suy tim, các rối loạn sức khỏe",
+      "Cải thiện sức khỏe",
+      "Tăng trí tuệ",
+      "Không ảnh hưởng"
+    ],
+    "answer": 0,
+    "shortAnswer": "Tiếp xúc nhiệt cao gây sốc nhiệt và các vấn đề sức khỏe nghiêm trọng."
+  },
+  {
+    "id": 126,
+    "type": "mcq",
+    "question": "Phương pháp nào giúp bảo vệ nguồn nước ngầm khỏi ô nhiễm?",
+    "choices": [
+      "Quản lý rò rỉ hóa chất, kiểm soát chất thải",
+      "Đổ chất thải trực tiếp xuống đất",
+      "Không giám sát",
+      "Khai thác vô tội vạ"
+    ],
+    "answer": 0,
+    "shortAnswer": "Ngăn rò rỉ hóa chất và quản lý chất thải để bảo vệ nước ngầm."
+  },
+  {
+    "id": 127,
+    "type": "mcq",
+    "question": "Tại sao cần phân loại rác ở nguồn?",
+    "choices": [
+      "Để tăng hiệu quả tái chế và giảm chất thải chôn lấp",
+      "Không cần phân loại",
+      "Tăng ô nhiễm",
+      "Làm phức tạp quá trình thu gom"
+    ],
+    "answer": 0,
+    "shortAnswer": "Phân loại giúp tái chế hiệu quả và giảm chôn lấp."
+  },
+  {
+    "id": 128,
+    "type": "short",
+    "question": "Ghi tóm tắt 3 biện pháp chính để giảm phát thải khí nhà kính.",
+    "shortAnswer": "1. Chuyển sang năng lượng tái tạo (gió, mặt trời)\n2. Nâng cao hiệu quả năng lượng và tiết kiệm\n3. Trồng rừng và bảo vệ vùng đất than bẩn"
+  },
+  {
+    "question": "Sức khỏe là trạng thái hoàn toàn thoải mái về ... chứ không phải đơn thuần là không có bệnh tật",
+    "type": "mcq",
+    "choices": [
+      "Thể chất, tâm thần và xã hội",
+      "Xã hội",
+      "Thể chất",
+      "Tinh thần"
+    ],
+    "answer": 0,
+    "shortAnswer": null,
+    "id": 129
+  },
+  {
+    "question": "Ô nhiễm trắng là gì?",
+    "type": "mcq",
+    "choices": [
+      "Ô nhiễm do đồ nhựa và túi nilon",
+      "Ô nhiễm do tảo",
+      "Ô nhiễm do bụi",
+      "Ô nhiễm do khai thác đá"
+    ],
+    "answer": 0,
+    "shortAnswer": null,
+    "id": 130
+  },
+  {
+    "question": "Mưa axit là:",
+    "type": "mcq",
+    "choices": [
+      "Hiện tượng nước mưa có pH >7",
+      "Hiện tượng nước mưa có pH >5.6",
+      "Hiện tượng nước mưa có pH ≤5.6",
+      "Hiện tượng nước mưa có pH =6"
+    ],
+    "answer": 2,
+    "shortAnswer": null,
+    "id": 131
+  },
+  {
+    "question": "Hiệu ứng nhà kính chủ yếu xảy ra ở tầng nào của khí quyển?",
+    "type": "mcq",
+    "choices": [
+      "Tầng bình lưu",
+      "Tầng đối lưu",
+      "Tầng nhiệt",
+      "Tầng trung lưu"
+    ],
+    "answer": 1,
+    "shortAnswer": null,
+    "id": 132
+  },
+  {
+    "question": "SBS - Sick Building Syndrome thường do nguyên nhân nào?",
+    "type": "mcq",
+    "choices": [
+      "Điều kiện thông gió kém, VOCs, nấm mốc",
+      "Thiên tai",
+      "Thiếu ánh sáng mặt trời",
+      "Thực phẩm ôi thiu"
+    ],
+    "answer": 0,
+    "shortAnswer": null,
+    "id": 133
+  },
+  {
+    "question": "Nêu 5 thời kỳ của bệnh truyền nhiễm (liệt kê)",
+    "type": "short",
+    "shortAnswer": "1. Thời kỳ nung bệnh; 2. Thời kỳ khởi phát; 3. Thời kỳ toàn phát; 4. Thời kỳ lui bệnh; 5. Thời kỳ hồi phục",
+    "id": 134
+  },
+  {
+    "question": "Nguồn chính phát thải CO2 toàn cầu là:",
+    "type": "mcq",
+    "choices": [
+      "Đốt nhiên liệu hóa thạch (điện, giao thông)",
+      "Nông nghiệp",
+      "Gió mạnh",
+      "Quá trình quang hợp"
+    ],
+    "answer": 0,
+    "shortAnswer": null,
+    "id": 135
+  },
+  {
+    "question": "Thành phần của khói mù quang hóa có chứa chất nào?",
+    "type": "mcq",
+    "choices": [
+      "Aldehydes",
+      "CO2",
+      "CH4",
+      "NH3"
+    ],
+    "answer": 2,
+    "shortAnswer": null,
+    "id": 136
+  },
+  {
+    "question": "1. Sức khỏe là trạng thái hoàn toàn thoải mái về .......... chứ không phải đơn thuần làkhông",
+    "type": "mcq",
+    "choices": [
+      "Thể chất, tinh thần và xã hội",
+      "Xã hội",
+      "Thể chất",
+      "Tinh thần",
+      "Mô hình can thiệp sức khỏe cộng đồng",
+      "Mô hình can thiệp lâm sàng",
+      "Mô hình hướng đến quản lý môi trường",
+      "Mô hình can thiệp sức khỏe người dân",
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo quan hệ mật thiết với",
+      "Môi trường bao gồm các nhân tố thiên nhiên như vật lý, hoá học, sinh học, tồn tại ngoài ý",
+      "Môi trường là tổng thể các quan hệ giữa người với người. Đó là những luật lệ, thể chế, cam",
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo.",
+      "Bảo vệ con người bằng việc ngăn chặn sự suy thoái môi trường và các tác động đến sức khỏe.",
+      "Ngăn ngừa một bệnh cụ thể dẫn đến tử vong",
+      "Ngăn chặn sự phát triển của bệnh sau khi cộng đồng đã tiếp xúc với yếu tố nguy cơ",
+      "Tiếp cận trong khám chữa bệnh cộng đồng.",
+      "Sinh vật sản xuất.",
+      "Sinh vật phân hủy.",
+      "Sinh vật trung gian.",
+      "Sinh vật tiêu thụ.",
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo quan hệ mật thiết với",
+      "Môi trường bao gồm các nhân tố thiên nhiên như vật lý, hoá học, sinh học, tồn tại ngoài ý",
+      "Môi trường là tổng thể các quan hệ giữa người với người. Đó là những luật lệ, thể chế, cam"
+    ],
+    "answer": null,
+    "shortAnswer": "có bệnh tật 2. Mô hình nào dưới đây là không phải là mô hình can thiệp của sức khỏe môi trường? 3. Môi trường là: nhau, có ảnh hưởng tới đời sống, sản xuất, sự tồn tại, phát triển của con người và thiên nhiên. muốn của con người, nhưng cũng ít nhiều chịu tác động của con người. kết, quy định, ước định... ở các cấp khác nhau như: Liên Hợp Quốc, Hiệp hội các nước, quốc gia, tỉnh, huyện, cơ quan, làng xã, họ tộc, gia đình, tổ nhóm, các tổ chức tôn giáo, tổ chức đoàn thể,... 4. Mục tiêu của mô hình can thiệp sức khỏe lâm sàng? 5. Cấu trúc hữu sinh của quần xã KHÔNG có nhóm nào dưới đây: 6. Môi trường xã hội là: nhau, có ảnh hưởng tới đời sống, sản xuất, sự tồn tại, phát triển của con người và thiên nhiên. muốn của con người, nhưng cũng ít nhiều chịu tác động của con người. kết, quy định, ước định... ở các cấp khác nhau như: Liên Hợp Quốc, Hiệp hội các nước, quốc gia, tỉnh, huyện, cơ quan, làng xã, họ tộc, gia đình, tổ nhóm, các tổ chức tôn giáo, tổ chức đoàn thể,...",
+    "id": 137
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 138
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 139
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 140
+  },
+  {
+    "question": "D. Mối quan hệ giữa người với người.",
+    "type": "mcq",
+    "choices": [
+      "Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo quan hệ mật thiết với",
+      "Môi trường bao gồm các nhân tố thiên nhiên như vật lý, hoá học, sinh học, tồn tại ngoài ý",
+      "Môi trường là tổng thể các quan hệ giữa người với người. Đó là những luật lệ, thể chế, cam",
+      "Bao gồm các yếu tố tồn tại khách quan và chủ quan",
+      "Số lượng các các động vật trong hệ sinh thái",
+      "Mối quan hệ giữa sinh vật sản xuất và sinh vật tiêu thụ",
+      "Số lượng nhiều các loài vật thiên địch.",
+      "Tính đa dạng sinh học của hệ sinh thái",
+      "Tâm lý, tai nạn, sinh học, hóa học, độc học",
+      "Tai nạn, sinh học, hóa lý, độc học, vật lý",
+      "Tâm lý, tai nạn, sinh học, hóa học, vật lý",
+      "Sinh học, hóa học, vật lý, sinh lý, tai nạn",
+      "Yếu tố nhân tạo",
+      "Yếu tố vật chất",
+      "Yếu tố trình trạng dinh dưỡng",
+      "Yếu tố tinh thần",
+      "Yếu tố di truyền",
+      "Yếu tố cá tính",
+      "Yếu tố trình trạng dinh dưỡng",
+      "Yếu tố học vấn",
+      "Cá sấu",
+      "Hươu",
+      "Nấm, Vi khuẩn",
+      "Cây đào chuông",
+      "Cáo",
+      "Bò",
+      "Nấm, Vi khuẩn",
+      "Cây đào chuông"
+    ],
+    "answer": null,
+    "shortAnswer": "7. Môi trường tự nhiên là: nhau, có ảnh hưởng tới đời sống, sản xuất, sự tồn tại, phát triển của con người và thiên nhiên. muốn của con người, nhưng cũng ít nhiều chịu tác động của con người. kết, quy định, ước định... ở các cấp khác nhau như: Liên Hợp Quốc, Hiệp hội các nước, quốc gia, tỉnh, huyện, cơ quan, làng xã, họ tộc, gia đình, tổ nhóm, các tổ chức tôn giáo, tổ chức đoàn thể,... 8. Nhân tố quan trọng nhất ảnh hưởng đến cân bằng sinh thái là gì? 9. Sức khỏe bị ảnh hưởng bởi yếu tố nào của môi trường? 10. Tài nguyên bao gồm tất cả các........... có trên trái đất và trong không gian vũ trụ liên quan, mà con người có thể sử dụng để phục vụ cuộc sống và sự phát triển của con người 11. Yếu tố nào KHÔNG ảnh hưởng đến sự đáp ứng của cơ thể con người trước tác động của môi trường 12. Theo anh/chị Sinh vật tiêu thụ bậc 1 là: 13. Theo anh/ chị nhóm sinh vật có vai trò quan trọng trong xử lý chất thải và khép kín vòng tuần hoàn vật chất là:",
+    "id": 141
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 142
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 143
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 144
+  },
+  {
+    "question": "14. Tập hợp tất cả hệ sinh thái trên bề mặt trái đất làm thành...",
+    "type": "mcq",
+    "choices": [
+      "Thủy quyển",
+      "Thạch quyển",
+      "Sinh quyển",
+      "Khí quyển",
+      "Các điều kiện khí hậu: nhiệt độ, ánh sáng, pH.",
+      "Chất dinh dưỡng, chất độc",
+      "Sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân hủy",
+      "Vi sinh vật, thực vật, động vật."
+    ],
+    "answer": null,
+    "shortAnswer": "15. Các thành phần của môi trường vật lý gồm:",
+    "id": 145
+  },
+  {
+    "question": "CHƯƠNG 2",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 146
+  },
+  {
+    "question": "6. Quản lý chất thải là hoạt động phân loại, thu gom, vận chuyển giảm thiểu, tái sử dụng,",
+    "type": "mcq",
+    "choices": [
+      "Đổ đống",
+      "Phân hủy",
+      "Thiêu hủy",
+      "Hủy bỏ",
+      "Phân tử và nguyên tử chuyển động với tốc độ cao",
+      "Nhiệt độ dao động mạnh (-100oC đến hơn 2000oC)",
+      "Có tầng ozon cản tia cực tím.",
+      "Thời tiết thay đổi",
+      "Tầng bình lưu",
+      "Tầng đối lưu",
+      "Tầng nhiệt",
+      "Tầng trung lưu",
+      "Tầng bình lưu",
+      "Tầng đối lưu",
+      "Tầng nhiệt",
+      "Tầng trung lưu",
+      "Giảm khả năng miễn dịch, gây bệnh về da, mắt."
+    ],
+    "answer": null,
+    "shortAnswer": "tách chế, xử lý,........., thải loại chất thải 7. Ở tầng điện li (tầng nhiệt) xảy ra hiện tượng: 8. Hiệu ứng nhà kính chủ yếu xảy ra ở tầng nào của khí quyển: 9. Hiện tượng mây dạ quang xảy ra ở tầng nào của lớp khí quyển 10. Phát biểu nào sau đây là đúng về ảnh hưởng của tia UV đến sức khỏe con người",
+    "id": 147
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 148
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 149
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 150
+  },
+  {
+    "question": "B. Tăng cường sức khỏe cho làn da",
+    "type": "mcq",
+    "choices": [
+      "Tăng cường sức khỏe cho đôi mắt.",
+      "Tăng khả năng miễn dịch của cơ thể người",
+      "Hiện tượng nóng lên của lớp khí quyển trái đất.",
+      "Hiện tượng nóng lên của lớp vỏ trái đất",
+      "Hiện tượng trái đất có khả năng cản tia UV",
+      "Hiện tượng suy giảm tầng ozon",
+      "Hiện tượng nước mưa có pH >7",
+      "Hiện tượng nước mưa có pH >5.6",
+      "Hiện tượng nước mưa có pH <5.6",
+      "Hiện tượng nước mưa có pH=6",
+      "Tầng đối lưu",
+      "Tầng bình lưu",
+      "Tầng trung lưu",
+      "Tầng ngoài",
+      "Aldehydes",
+      "CO2",
+      "CH4",
+      "NH3",
+      "Xảy ra ở điều kiện thời tiết lạnh và khô",
+      "Xảy ra ở điều kiện thời tiết nóng",
+      "Xảy ra ở điều kiện thời tiết nóng, ẩm",
+      "Xảy ra ở điều kiện thời tiết lạnh"
+    ],
+    "answer": null,
+    "shortAnswer": "11. Hiệu ứng nhà kính là 12. Mưa axit là: 13. Ozon là chất khí có hại đối với sinh vật và con người khi có mặt ở tầng? 14. Thành phần của khói mù quang hóa có chứa chất 15. Khói mù quang hóa khác với khói mù thông thường ở điểm nào? 16. Các tầng của khí quyển bao gồm",
+    "id": 151
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 152
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 153
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 154
+  },
+  {
+    "question": "A. Tầng đối lưu, bình lưu, trung lưu, điện li (nhiệt), tầng ngoài.B. Tầng đối lưu, bình lưu, trung",
+    "type": "mcq",
+    "choices": [
+      "Tầng đối lưu, bình lưu, trung lưu, điện li (nhiệt), thượng lưu",
+      "Tầng đối lưu, bình lưu, trung lưu",
+      "Hỗn hợp khí bao xung quanh trái đất",
+      "Hỗn hợp chất lỏng bao xung quanh trái đất",
+      "Hỗn hợp khí và chất lỏng bao xung quanh trái đất",
+      "Hỗn hợp khí, lỏng rắn bao xung quanh trái đất.",
+      "Do đốt cháy nhiên liệu hóa thạch, khói thải nhà máy điện",
+      "Các đầm lầy",
+      "Chất thải gia súc, gia cầm",
+      "Trong quá trình xảy ra bão bụi.",
+      "Trong đất",
+      "Trong rừng",
+      "Trên núi cao",
+      "Trong khí quyển",
+      "Trồng cây",
+      "Giữ vệ sinh nhà cửa",
+      "Kéo rèm",
+      "Bật quạt"
+    ],
+    "answer": null,
+    "shortAnswer": "lưu, điện li (nhiệt) 17. Khí quyển là 18. Khí sulfur dioxide (SO2) chủ yếu sinh ra từ 20. Hiệu ứng nhà kính xảy ra ở đâu? 21. Giải pháp giải nào sau đây được xem là giải pháp hiệu quả nhất trong việc giảm thiểu ô nhiễm tiếng ồn?",
+    "id": 155
+  },
+  {
+    "question": "CHƯƠNG 3",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 156
+  },
+  {
+    "question": "1. Melatonin còn được gọi là gì?",
+    "type": "mcq",
+    "choices": [
+      "Hóc môn bóng tối",
+      "Hóc môn hắc tố",
+      "Sắc tố da",
+      "Bạch tạng"
+    ],
+    "answer": null,
+    "shortAnswer": null,
+    "id": 157
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 158
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 159
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 160
+  },
+  {
+    "question": "2. Phát biểu nào sau đây là đúng khi nói về bệnh mãn tính",
+    "type": "mcq",
+    "choices": [
+      "Bệnh phát trong thời gian từ 3-7 tuần.",
+      "Được gây ra bởi virus SARS-CoV-2.",
+      "Nguyên nhân gây bệnh không rõ ràng và chúng thường phát triển theo thời gian dài",
+      "Bệnh có thể lây từ động vật sang người hoặc từ người sang người.",
+      "Covid 19 là một trong những bệnh truyền nhiễm",
+      "Có thời gian ủ bệnh và điều trị rất dài",
+      "Bệnh truyền nhiễm thường được gây ra bởi vi sinh vật (mầm bệnh)",
+      "Bệnh truyền nhiễm còn gọi là bệnh lây.",
+      "Là những bệnh lý mang đặc trưng của nghề nghiệp hoặc liên quan tới nghề nghiệp",
+      "Là những bệnh lý không liên quan tới nghề nghiệp.",
+      "Do tác hại thường xuyên và lâu dài của nghề nghiệp",
+      "Do điều kiện lao động tốt",
+      "Bệnh bụi phổi bông",
+      "Bệnh nhiễm độc chì",
+      "Bệnh nhiễm độc thuỷ ngân.",
+      "Bệnh sạm da.",
+      "Bệnh bụi phổi Atbet (Amiăng)",
+      "Bệnh nhiễm độc asen",
+      "Bệnh do quang tuyến X và các chất phóng xạ",
+      "Stress",
+      "Bệnh lao nghề nghiệp.",
+      "Nhiễm độc chất Nicotin nghề nghiệp.",
+      "Bệnh điếc do tiếng ồn",
+      "Bệnh nhiễm độc hoá chất trừ sâu."
+    ],
+    "answer": null,
+    "shortAnswer": "3. Phát biểu nào sau đây là KHÔNG ĐÚNG khi nói về bệnh truyền nhiễm? 14. Bệnh nghề nghiệp? 15. Những bệnh nghề nghiệp do tác hại của bụi? 16. Những bệnh nghề nghiệp do các tác nhân hóa học? 17. Những bệnh nghề nghiệp do các yếu tố vật lý?",
+    "id": 161
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 162
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 163
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 164
+  },
+  {
+    "question": "18. Những bệnh nghề nghiệp do tính chất công việc?",
+    "type": "mcq",
+    "choices": [
+      "Stress.",
+      "Bệnh điếc do tiếng ồn",
+      "Bệnh nhiễm độc hóa chất trừ sâu",
+      "Bệnh do quang tuyến X và tia phóng xạ",
+      "Xảy ra bất ngờ trong lao động do công việc hoặc môi trường lao động gây nên, làm nguy hại",
+      "Xảy ra trên đường",
+      "Tai nạn giao thông",
+      "Xảy ra bất ngờ trong công việc hoặc môi trường, làm nguy hại đến sức khỏe cả về thể chất",
+      "An toàn lao động là tất cả công việc của tập thể hoặc người lao động nhằm giảm nhẹ hoặc",
+      "An toàn lao động là tất cả các giải pháp nhằm giảm nhẹ hoặc chống lại các tai nạn và bệnh",
+      "An toàn lao động là tất cả các giải pháp, công việc của tập thể hoặc người lao động nhằm",
+      "An toàn lao động là tất cả các giải pháp, công việc của tập thể hoặc người lao động nhằm"
+    ],
+    "answer": null,
+    "shortAnswer": "19. Tai nạn lao động? đến sức khỏe cả về thể chất hoặc tinh thần thậm chí có thể gây chết người. hoặc tinh thần nhưng không gây chết người 20. Phát biểu nào sau đây là đúng nhất? chống lại cáctai nạn và bệnh nghề nghiệp. nghề nghiệp. giảm nhẹ hoặc chống lại các tai nạn và bệnh nghề nghiệp. giảm nhẹ hoặc chống lại các tai nạn.",
+    "id": 165
+  },
+  {
+    "question": "CHƯƠNG 4",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 166
+  },
+  {
+    "question": "1. Bộ tiêu chuẩn quốc tế về hệ thống quản lý an toàn thực phẩm:",
+    "type": "mcq",
+    "choices": [
+      "ISO 21000",
+      "ISO 22000",
+      "ISO 23000",
+      "ISO 24000",
+      "ISO 11000",
+      "ISO 12000",
+      "ISO 13000",
+      "ISO 14000"
+    ],
+    "answer": null,
+    "shortAnswer": "2. Bộ tiêu chuẩn quốc tế về hệ thống quản lý môi trường",
+    "id": 167
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 168
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 169
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 170
+  },
+  {
+    "question": "3. Sử dụng phụ gia thực phẩm như thế nào là đúng?",
+    "type": "mcq",
+    "choices": [
+      "Sử dụng phụ gia nhập khẩu",
+      "Sử dụng theo hướng dẫn ghi trên nhãn",
+      "Dùng các hóa chất có màu, hương vị bền, bóng",
+      "Sử dụng theo kinh nghiệm",
+      "KCN",
+      "HCN",
+      "NaCN",
+      "Vitamin",
+      "Vật lý, hóa học, ký sinh trùng",
+      "Vật lý, kim loại nặng, sinh học",
+      "Vật lý, hóa học, sinh học",
+      "Vật lý, hóa sinh, sinh học"
+    ],
+    "answer": null,
+    "shortAnswer": "4. Khoai mì chứa độc chất? 5. Các tác nhân chính gây mất an toàn thực phẩm? II: CÂU HỎI NGẮN",
+    "id": 171
+  },
+  {
+    "question": "Chươmg 1:",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 172
+  },
+  {
+    "question": "1. Sức khỏe là gì?",
+    "type": "short",
+    "shortAnswer": "- Là trạng thái hoàn toàn khỏe mạnh về thể chất, tinh thần, xã hội và không đơn giản là vô bệnh hay vô tật (WHO 1948) 1. Khái niệm môi trường là gì? Môi trường bao gồm các yếu tố tự nhiên và yếu tố vật chất nhân tạo quan hệ mật thiết với nhau, có ảnh hưởng tới đời sống, sản xuất, sự tồn tại, phát triển của con người và thiên nhiên. 1. Ô nhiễm “Trắng” là gì”? - Do đồ nhựa và túi nilon 2. Ô nhiễm tiếng ồn gây nên: - Suy giảm thính lực 1. Anh/ chị hãy nêu khái niệm về Cân bằng sinh thái? \"Cân bằng sinh thái là trạng thái ổn định tự nhiên của hệ sinh thái, hướng tới sự thích nghi cao nhất với điều kiện sống 2. Anh/Chị nêu ý nghĩa của mô hình can thiệp can thiệp lâm sàng? Mục tiêu của bác sĩ là ngăn ngừa một bệnh cụ thể dẫn đến tử vong 3. Anh/Chị nêu ý nghĩa của mô hình can thiệp can thiệp sức khỏe cộng đồng?",
+    "id": 173
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 174
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 175
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 176
+  },
+  {
+    "question": "Ngăn chặn sự phát triển của bệnh sau khi cộng đồng đã tiếp xúc với yếu tố nguy cơ",
+    "type": "short",
+    "shortAnswer": "4. Anh/Chị nêu định nghĩa về đa dạng sinh học? Đa dạng sinh học là sự phong phú về nguồn gen, về giống, loài sinh vật và hệ sinh thái trong tự nhiên. 6. Anh/Chị nêu các nguyên nhân làm tăng tuổi thọ của con người ngày nay? - Những tiến bộ trong môi trường sống của con người.- Những cải thiện về vấn đề dinh dưỡng.- Những tiến bộ trong chẩn đoán và điều trị y học đối với các loại bệnh tật 7. Anh/ Chị hãy nêu cấu trúc của nhóm hữu sinh của hệ sinh thái ?Nhóm hữu sinh của hệ sinh thái gồm: - Sinh vật sản xuất: thực vật, vi khuẩn hóa tự dưỡng - Sinh vật tiêu thụ: động vật ăn cỏ, động vật ăn thịt, động vật ăn tạp - Sinh vật phân hủy: vi khuẩn, nấm, ... 8. Ô nhiễm đất là gì? Ô nhiễm đất là quá trình làm biến đổi hoặc thải vào đất các chất ô nhiễm làm thay đổi tính chất và cấu trúccủa nó theo chiều hướng không có lợi, mất khả năng đáp ứng cho các nhu cầu sống của con người. 9. Anh/ chị hãy cho biết nước bị ô nhiễm khi nào? Nước bị ô nhiễm khi thay đổi tính chất lý học, thành phần hóa học, hệ vi sinh vật có trong nước hoặc xuất hiện chất lạ trong môi trường nước. 10. Anh/ chị hãy cho biết nguồn gốc nhân tạo gây ô nhiễm môi trường nước? Nguồn gốc nhân tạo gây ô nhiễm nước là do xả nước thải sinh hoạt, công nghiệp, giao thông vận tải, thuốc trừ sâu diệt cỏ và phân bón nông nghiệp. 11. Anh/ chị hãy cho biết hiện tượng thời tiết xảy ra ở tầng nào của khí quyển? Và cho biết 5 ví dụ về các thiên tai phổ biến ở nước ta? - Hiện tượng thời tiết xảy ra ở tầng Đối lưu của Khí quyển. - Thiên tai phổ biến ở nước ta là: Hạn hán, Lũ lụt, Sạt lở đất, Bão, Nhiễm mặn 12. Chất gây ô nhiễm không khí sơ cấp là gì? Là các chất ô nhiễm được thải trực tiếp (emitted directly) từ các nguồn phát thải vào khí quyển 13. Chất gây ô nhiễm không khí thứ cấp là gì? Là các chất được tạo thành (formed) từ các chất ô nhiễm sơ cấp do quá trình biến đổi hóa học trong khí quyển.",
+    "id": 177
+  },
+  {
+    "question": "Chương 3:",
+    "type": "short",
+    "shortAnswer": "1. Anh/ Chị hãy nêu 5 thời kỳ của bệnh truyền nhiễm?",
+    "id": 178
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 179
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 180
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 181
+  },
+  {
+    "question": "1. Thời kỳ nung bệnh.",
+    "type": "short",
+    "shortAnswer": "2. Thời kỳ khởi phát. 3. Thời kỳ toàn phát. 4. Thời kỳ lui bệnh. 5. Thời kỳ hồi phục 2. Các chất gây nên triệu chứng SBS có nguồn gốc sinh học là gì? Các chất gây nên triệu chứng SBS có nguồn gốc sinh học thường là phấn hoa, ví khuẩn, virus, nấm mốc, ký sinh trùng. 4. Anh/Chị hãy nêu 2 ví dụ về bệnh nghề nghiệp do tính chất công việc như: áp lực cao, uống rượu bia. - Stress - Trầm cảm - Tim mạch - Tiểu đường 5. Nguyên nhân gây tai nạn lao động là gì? - Nguyên nhân kỹ thuật -Tổ chức lao động - Nguyên nhân chủ quan và khách quan 6. Hội chứng nhà kín là gì? Là thuật ngữ chỉ về các loại bệnh tật khác nhau có nguyên nhân từ những điều kiện và môi trường làm việc ở văn phòng, cao ốc ... 8. Anh/ Chị hãy nêu các yếu tố ảnh hưởng đến sức khỏe của người Việt Nam ? - Các yếu tố dân số - Toàn cầu hóa, công nghiệp hóa, đô thị hóa, di cư và thay đổi lối sống - Biến đổi khí hậu - Sức khỏe môi trường - An toàn vệ sinh thực phẩm 9. Anh/Chị hãy trình bày nguyên nhân của bệnh nghề nghiệp? Nguyên nhân của bệnh nghề nghiệp là do tác hại thường xuyên và lâu dài của điều kiện lao động không tốt. 3. Anh/Chị nêu khái niệm bệnh nghề nghiệp? Là những bệnh lý mang đặc trưng của nghề nghiệp hoặc liên quan tới nghề nghiệp. 10. Môi trường nhà ở là gì - Nhà ở là nơi con người sinh sống, nghỉ ngơi và hồi phục sức khỏe sau lao động, thỏa mãn đầy đủ yêu cầu văn hóa đời sống. 11. Anh/ chị hãy nêu nhiệm vụ chính của nhà ở? - Bảo vệ cơ thể khỏi bị tác động của những yếu tố khí hậu xấu. - Nhà ở là nơi nghỉ ngơi để phục hồi sức khỏe - Nhà ở là nơi tập trung mọi vấn đề của cuộc sống gia đình. 12. Anh/chị hãy nêu những đặc điểm vệ sinh vi khí hậu nhà ở? - Nhiệt độ không khí: Tùy theo điều kiện thời tiết ( mùa đông 17 – 10 độ ), mùa hè (22 – 24 độ) - Độ ẩm không khí: Thích hợp trong nhà ở là từ 30- 60%",
+    "id": 182
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 183
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 184
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 185
+  },
+  {
+    "question": "- Chuyển động của không khí: Gió thích hợp trong nhà ở là 0.3m/s",
+    "type": "mcq",
+    "choices": [
+      "Cơ chế hình thành và nguyên nhân",
+      "Tác động",
+      "Biện pháp ngăn ngừa",
+      "Cơ chế hình thành và nguyên nhân"
+    ],
+    "answer": null,
+    "shortAnswer": "- Bức xạ: Trong nhà ở bức xạ chiếu sáng là chính, không nên có bức xạ nhiệt. III. TỰ LUẬN Câu 1: Trình bày cơ chế hình thành, nguyên nhân, tác động và biện pháp ngăn ngừa hiệu ứng nhà kính đến môi trường sống và con người. - Đây là một hiệu ứng khiến không khí của trái đất nóng lên do bức xạ sóng ngắn của mặt trời, chúng cũng có thể xuyên qua tầng khí quyển chiếu xuống mặt đất, hiện tượng này làm cho CO2 thấp thụ làm cho không khí nóng lên. - Khí nhà kính sẽ giữ lại nhiệt độ của mặt trời, không cho chúng phản xạ đi. Nếu như khí này tồn tại vừa phải thì sẽ giúp trái đất luôn ở trạng thái cân bằng. Tuy nhiên, bởi hiện tượng này gia tăng quá nhiều trong bầu khí quyển nên khiến cho trái đất nóng lên. - Ngoài khí CO2 ra, các khí sau cũng là nguyên nhân tác động và gây nên hiệu ứng nhà kính: khí CH4, CFC, SO2, METAN, OZON, các HALOGEN và hơi nước - Ảnh hưởng nghiêm trọng đến nguồn nước - Hiện tượng biến đổi khí hậu trên trái đất - Hiện tượng cháy rừng tự phát - Hiện tượng hạn hán cháy rừng - Tác động đến các loài sinh vật - Hiện tượng băng tan - Ảnh hưởng xấu đến sức khỏe con người - Tăng cường trồng nhiều cây xanh - Nâng cao ý thức tiết kiệm điện - Sử dụng phương tiện di chuyển bản vệ môi trường - Đẩy mạnh công tác tuyên truyền bảo vệ môi trường. Câu 2 : Trình bày cơ chế hình thành, nguyên nhân, tác động và biện pháp ngăn ngừa suy giảm tầng OZON đến môi trường sống và con người. - OZON trong khí quyển được hình thành khi các tia cực tím chạm phải các phân tử Oxy. Oxy nguyên tử sẽ kết hợp với một phần tử Oxy để tạo OZON. Nằm phía dưới một tầng nữa là tầng bình lưu.Trong tầng bình lưu này tồn tại một lớp giàu khi Ozon thông thường gọi là tầng OZON.",
+    "id": 186
+  },
+  {
+    "question": "MEIMEI",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 187
+  },
+  {
+    "question": "Downloaded by Ngô Nguy?n Thùy Linh (linhthuyhht@gmail.com)",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 188
+  },
+  {
+    "question": "lOMoARcPSD|34852188",
+    "type": "short",
+    "shortAnswer": "",
+    "id": 189
+  },
+  {
+    "question": "- Nguyên nhân chính của hiện tượng này đến từ hoạt động của con người đó là sự giải phóng quá",
+    "type": "mcq",
+    "choices": [
+      "Tác động",
+      "Biện pháp ngăn ngừa:"
+    ],
+    "answer": null,
+    "shortAnswer": "mức Clo và Brom từ các hợp chất nhân tạo như CFC, HALON, CH3CCL3( Methyl chlorotorm), CCL4 ( Carbontetrachloride), HCFC (Hydro – chlorofluorocarbons, Hydrobromo Huorcarbons và Methyl bromide. Chúng đã được minh chứng hiện hữu trên tầng OZON. Các chất khí này được gọi là ODS – Các chất làm suy giảm tầng OZON chính. - thủng tần ozon sẽ làm suy giảm sức khoẻ của cơ thể người và động vật. Nó phá huỷ hệ thống miễn dịch của cơ thể người cũng như động vật, điều đó đồng nghĩa với việc con người và động vật sẽ dễ mắc bệnh hơn - Làm huỷ hoại các sinh vật nhỏ: Thủng tầng ozon sẽ làm mất cân bằng hệ sinh thái động thức vật biển. Tia UV tăng lên thì sẽ coa ảnh hưởng nghiêm trọng đên quá trình sinh trưởng của các loài tôm, cua, cá .... Và cũng làm giảm khả năng sinh sản của chúng. - Làm giảm chất lượng không khí: tầng ozon suy giảm sẽ làm tăng bức xạ tử ngoại UV -B đến mặt đất, làm tăng phản ứng hoá học từ đó sẽ gây ô nhiễm khí quyển - Gây hại đến thực vật và giảm năng xuất cây trồng - Tác động tới vật liệu: bức xạ của tia tử ngoại sẽ làm giảm nhanh tuổi thọ của các vật liệu, làm mất độ bền chắc. Ngoài ra nó còn đóng góp vào việc tăng cường hiệu ứng nhà kính. - Hạn chế sử dụng năng lượng hạt nhân, xử lý nghiêm các khu công nghiệp, nhà máy thải khí độc hại ra môi trường đồng thời cần giáo dục và tuyên truyền cho mọi người để ngăn chặn những hành động xấu làm thủng tần ozon.",
+    "id": 190
+  }
+]
