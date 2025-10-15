@@ -1,5 +1,1 @@
-flask
-sentence-transformers
 rapidfuzz
-torch
-flask-cors
