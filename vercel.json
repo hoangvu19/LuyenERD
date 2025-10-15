@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "ai_grader.py", "use": "@vercel/python" },
+    { "src": "index.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/ai/grade", "dest": "ai_grader.py" },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}
